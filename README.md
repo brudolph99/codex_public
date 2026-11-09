@@ -1,5 +1,8 @@
 # Cloud job proof of concept
 
+For the separate Python → Yahoo Finance → Supabase exercise, see
+[the pricing demo](pricing_demo/README.md).
+
 Fetch the latest public Python development update from GitHub's Atom feed:
 
 ```sh

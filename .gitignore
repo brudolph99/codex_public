@@ -1,2 +1,5 @@
 __pycache__/
 logs/
+.env
+.env.*
+pricing-result.json
